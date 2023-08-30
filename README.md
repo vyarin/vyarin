@@ -1,5 +1,5 @@
 # Hello!
 
-I (try) to do things
+I (try to) do things
 
 Like code!
