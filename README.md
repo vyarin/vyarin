@@ -1,6 +1,6 @@
 <div align="center">
   <h3 style="color: blue;">Hello! I'm Vivian Tran ヾ(・ω・*)</h1>
-  <sup><i>Computer Engineering (soon)</i></sup>
+  <sup><i>Computer Engineering student</i></sup>
 </div>
 <br>
 <div align="center">
