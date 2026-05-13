@@ -12,9 +12,9 @@
   <a href="https://github.com/vyarin?tab=repositories&language=html"><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vyarin&theme=nightowl&bg_color=161b22&hide_border=true&rank_icon=github&show_icons=true">
-</div>
+</div> -->
 <div align="center">
   <sub>Thanks for stopping by!</sub>
 </div>
